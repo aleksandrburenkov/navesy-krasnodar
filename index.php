@@ -3,7 +3,7 @@ include_once "adminka/polikarbonat-catalog-img.php";
  include_once "adminka/metallocherepiza-catalog-img.php";
  include_once "adminka/audio-otzyv.php";
  include_once "adminka/video-block.php";
- include_once "top-cache.php";
+ // include_once "top-cache.php";
 require_once "keyses.php";
      require_once "reviews.php";
      include_once (__DIR__ . "/includes_prices/typical_prices.php");
@@ -1047,5 +1047,5 @@ document.write( month[d.getMonth()]
 </body>
 </html>
 <?php
-include_once "bottom-cache.php";
+// include_once "bottom-cache.php";
 ?>
