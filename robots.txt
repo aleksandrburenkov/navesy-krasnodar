@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /adminka
+Disallow: /spasibo.php/
+Disallow: /block-quiz.php
+Disallow: /category_keyses.php
+Disallow: /content-portfolio-slider.php
+Disallow: /drop_keyses.php
+Disallow: /geolocation.php
+Disallow: /get_reviews.php
+Disallow: /keyses.php
+Disallow: /metrika.php
+Disallow: /modal-slider.php
+Disallow: /modular-windows.php
+Disallow: /policy.php
+Disallow: /quiz-block.php
+Disallow: /reviews.php
+Disallow: /scroll-top.php
+Disallow: /section-action.php
+Disallow: /section-audio-reviews.php
+Disallow: /section-policarbonat.php
+Disallow: /section-reviews.php
+Disallow: /section-sravnenie.php
+Disallow: *?
+
+Sitemap: https://navesy-v-krasnodare.ru/sitemap.xml
+Host: https://navesy-v-krasnodare.ru
